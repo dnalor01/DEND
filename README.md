@@ -6,11 +6,11 @@
 This project extracts user and song information from a directory containing two datasets to allow easy analysis for Sparkify
 workers to gain insights regarding user activity.
 
-### Data Model:
+## Data Model:
 
 A Star Schema model is implemented with the song_plays table serving as the fact table.
 
-#### Contents:
+## Contents:
 
 This notebook contains the forementioned directory as well as six files, including this README.
 
